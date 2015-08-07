@@ -1,4 +1,5 @@
-# design-resources
+# Design Resources
 
-* [bootstrapping desing](http://bootstrappingdesign.com/)
-* [hack design](https://hackdesign.org/)
+* [Bootstrapping Design](http://bootstrappingdesign.com/)
+* [Hack Design](https://hackdesign.org/)
+* [Learn CSS Layout](http://learnlayout.com)
